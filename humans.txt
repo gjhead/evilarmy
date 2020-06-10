@@ -1,0 +1,22 @@
+/* TEAM */
+Your title: Our Ancient Future Records
+Site: http://www.ourancientfuture.com/
+Twitter: @_ancientfuture
+Location: Pittsburgh, PA
+
+             
+                    [...]
+					
+
+/* THANKS */
+Name: name or url
+
+             
+                    [...]
+                    
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
