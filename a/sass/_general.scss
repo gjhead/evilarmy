@@ -130,15 +130,15 @@ dl {
 }
 
 a {
-	color: white;
+	color: #fffc01;
 	text-decoration: none;
 	@extend %transition;
 	padding: 0;
-	border-bottom: 1px solid rgba(255,255,255,.3);
+	border-bottom: 1px solid rgba(255,252,1,.3);
 	
 	&:hover,
 	&:active {
-		border-bottom: 1px solid rgba(255,255,255,1);
+		border-bottom: 1px solid rgba(255,252,1,1);
 	}
 }
 

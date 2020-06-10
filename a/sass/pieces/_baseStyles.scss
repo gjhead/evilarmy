@@ -107,8 +107,9 @@ article {
 		text-transform: uppercase;
 		margin: 30px auto 40px;
 		text-align: center;
-		font-size: 22px;
+		font-size: 18px;
 		line-height: 1.4em;
+		max-width: 960px;
 	}
 	
 	.lineup {
@@ -133,4 +134,51 @@ article {
 			
 		}		
 	}	
+}
+
+
+.records {
+	margin: 0 auto;
+	
+	img {
+		border: 1px solid white;
+		margin-bottom: 10px;
+	}
+	
+	figure {
+		max-width: 450px;
+		margin-bottom: 50px;
+	}
+	
+	figcaption {
+		text-align: center;
+		line-height: 1.5;
+	}
+	
+	@media screen and (min-width: 768px) {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: flex-start;
+		align-content: flex-start;
+		max-width: 960px;
+		
+		figure {
+			width: 47.5%;
+			margin-bottom: 50px;
+		}
+	}
+	
+	@media screen and (min-width: 1080px) {
+		
+		figure {
+			width: 30%;
+			margin-bottom: 50px;
+		}
+		
+		figcaption {
+			font-size: 16px;
+		}
+	}
 }
