@@ -1,4 +1,5 @@
-deathcults.com
+evilarmythrash.com
+evilarmy.org
 
-a small website specifically for hellfire deathcult releases.  
-an attempt to boost seo to ancient future, specifically for hellfire deathcult releases.
+a small website  for evil armyt releases.  
+an attempt to boost seo to ancient future, specifically for evil army releases.
